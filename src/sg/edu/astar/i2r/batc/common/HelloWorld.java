@@ -12,7 +12,10 @@ package sg.edu.astar.i2r.batc.common;
 public class HelloWorld{
 
 	/**
+	 * The entry function of Hello World.
+	 * 
 	 * @param args
+	 * 	Not used.
 	 */
 	public static void main(String[] args){
 		if((args!=null) && (args.length>0)){
