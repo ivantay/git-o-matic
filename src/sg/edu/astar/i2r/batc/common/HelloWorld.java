@@ -25,6 +25,7 @@ public class HelloWorld{
 			System.out.println("Hello World");
 		}
 		System.out.println("It is still as boring...");
+		System.out.println("It is still as boring 2...");
 	}
 
 }
